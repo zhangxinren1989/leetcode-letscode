@@ -19,4 +19,8 @@ leetcode: let's code. A repository for leetcode study, mainly about solutions of
 
 <i>algorithm</i> 用来专门介绍特定的算法，把能够找到的基础到高级的算法和数据结构都介绍、学习一下
 
+<i>skill</i> 介绍算法中用到的方法，技巧
+
+<i>data-structure</i> 介绍数据结构知识
+
 <input type="hidden" datetime="2024-01-21" value="仓库创建，不是什么算法很厉害的人，只是一个普通人，只是比较热爱这个东西，工作上的无名小卒，社会上的无名之辈，想要做这件事，还想把这件事做很久，希望自己的算法能提升（仓库的一个作用），也希望仓库能持续更新下去（强者如云，我只做好自己，跟自己比就好了）"></input>
