@@ -2,6 +2,8 @@
 
 leetcode: let's code. A repository for leetcode study, mainly about solutions of leetcode questions and algorithms study.
 
+qq交流群号：192915240（leetcode-letscode）
+
 ---
 <i>toolkit</i> 中会总结一些常用的代码片段，代码模板等
 
